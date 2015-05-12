@@ -1,0 +1,6 @@
+C:\Users\Sedo\Documents\Visual Studio 2013\Projects\FibonacciRecursive\FibonacciRecursive\bin\Debug\FibonacciRecursive.exe.config
+C:\Users\Sedo\Documents\Visual Studio 2013\Projects\FibonacciRecursive\FibonacciRecursive\bin\Debug\FibonacciRecursive.exe
+C:\Users\Sedo\Documents\Visual Studio 2013\Projects\FibonacciRecursive\FibonacciRecursive\bin\Debug\FibonacciRecursive.pdb
+C:\Users\Sedo\Documents\Visual Studio 2013\Projects\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.csprojResolveAssemblyReference.cache
+C:\Users\Sedo\Documents\Visual Studio 2013\Projects\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.exe
+C:\Users\Sedo\Documents\Visual Studio 2013\Projects\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.pdb
